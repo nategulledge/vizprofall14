@@ -25,4 +25,4 @@ Group 3
 ![]({{ site.url }}/vizprofall14/images/class1/102114-group1-presentation.jpg)
 ![]({{ site.url }}/vizprofall14/images/class1/102114-group1-finished.jpg)
 
-All Photos <a href="![]({{ site.url }}/vizprofall14/images/class1/all-photos">Here </a>
+All Photos <a href="![]({{ site.url }}/vizprofall14/tree/gh-pages/images/class1/all-photos">Here </a>
