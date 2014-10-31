@@ -43,7 +43,7 @@ a:hover {
 }
 
 a:visited {
-  color: #1693cd;
+  color: #eee;
 }
 
 table {
@@ -67,7 +67,7 @@ ul.posts {
   }
 
   ul.posts span {
-    color: #aaa;
+    color: #999;
     font-family: Monaco, "Courier New", monospace;
     font-size: 80%;
   }
@@ -95,7 +95,6 @@ ul.posts {
   .site .title a {
     color: #FFF;
     text-decoration: none;
-		font-size: 24px;
   }
 
   .site .title a:hover {
@@ -103,17 +102,17 @@ ul.posts {
   }
 
   .site .title a.extra {
-    color: #aaa;
+    color: #999;
     text-decoration: none;
     margin-left: 1em;
   }
 
   .site .title a.extra:hover {
-    color: black;
+    color: #999;
   }
 
   .site .meta {
-    color: #aaa;
+    color: #999;
   }
 
   .site .footer {
