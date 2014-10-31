@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Class 1 // Mapping Activity (in Photos)
+title: Photos from Class 1
 ---
 
 {{ page.title }}

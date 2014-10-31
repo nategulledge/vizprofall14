@@ -13,7 +13,7 @@ title: Photos from Class 2
 ![]({{ site.url }}/vizprofall14/images/class2/102814-macwright-presentation1.jpg)
 ![]({{ site.url }}/vizprofall14/images/class2/102814-macwright-presentation2.jpg)
 
-<p>Work time after the presentation.<p>
+<p>Blog work after the presentation.<p>
 
 ![]({{ site.url }}/vizprofall14/images/class2/102814-class-work.jpg)
 
