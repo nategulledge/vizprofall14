@@ -31,6 +31,10 @@ h1 {
   margin-bottom: 1em;
 }
 
+h2 {
+	color: #666;
+}
+
 p {
   margin: 1em 0;
 	font-size: 12px;
@@ -114,7 +118,7 @@ ul.posts {
   }
 
   .site .meta {
-    color: #999;
+    color: #666;
   }
 
   .site .footer {
