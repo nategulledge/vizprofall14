@@ -35,7 +35,7 @@ p {
 }
 
 a {
-  color: #25ceff;
+  color: #0096ce;
 }
 
 a:hover {
@@ -93,7 +93,7 @@ ul.posts {
 }
 
   .site .title a {
-    color: #25ceff;
+    color: #FFF;
     text-decoration: none;
   }
 
@@ -129,7 +129,7 @@ ul.posts {
     }
 
       .site .footer .contact a {
-        color: #8085C1;
+        color: #777;
       }
 
     .site .footer .rss {
