@@ -1,4 +1,4 @@
 vizprofall14
 ============
 
-Blog for Visualization and Prototyping 
+Process/Observation Blog for Visualization and Prototyping Class
