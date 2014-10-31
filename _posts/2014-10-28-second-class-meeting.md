@@ -8,7 +8,7 @@ title: Mapping Activity
 
 <p class="meta">
 
-In our first class activity, the class was seperated into 3 teams and given markers, tape, scissors, papers and pad
+Photos of the first group [mapping] activity of the semester.
 
 ![]({{ site.url }}/vizprofall14/images/IMG_4904.JPG)
 ![]({{ site.url }}/vizprofall14/images/IMG_4906.JPG)
