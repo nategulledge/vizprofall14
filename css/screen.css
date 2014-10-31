@@ -36,8 +36,9 @@ h2 {
 }
 
 p {
+	color: #666;
   margin: 1em 0;
-	font-size: 14px;
+	font-size: 13px;
 }
 
 a {
@@ -118,7 +119,7 @@ ul.posts {
   }
 
   .site .meta {
-    color: #666;
+    color: #999;
   }
 
   .site .footer {
