@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mapping Activity
+title: Photos from Class 2 
 ---
 
 {{ page.title }}
@@ -8,11 +8,15 @@ title: Mapping Activity
 
 <p class="meta">
 
-Photos of the first group [mapping] activity of the semester.
+<p>Photos from the presentation by guest speaker, Tom MacWright (MapBox).</p>
 
-![]({{ site.url }}/vizprofall14/images/IMG_4904.JPG)
-![]({{ site.url }}/vizprofall14/images/IMG_4906.JPG)
-![]({{ site.url }}/vizprofall14/images/IMG_4913.JPG)
-![]({{ site.url }}/vizprofall14/images/IMG_4914.JPG)
-![]({{ site.url }}/vizprofall14/images/IMG_4916.JPG)
-![]({{ site.url }}/vizprofall14/images/IMG_4920.JPG)
+![]({{ site.url }}/vizprofall14/images/class2/102814-macwright-presentation1.jpg)
+![]({{ site.url }}/vizprofall14/images/class2/102814-macwright-presentation2.jpg)
+
+<p>Work time after the presentation.<p>
+
+![]({{ site.url }}/vizprofall14/images/class2/102814-class-work.jpg)
+
+<p>
+<i>All Photos <a href="https://github.com/nategulledge/vizprofall14/tree/gh-pages/images/class2/all-photos">Here </a></i>
+</p>
